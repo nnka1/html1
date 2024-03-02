@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f0ff;
+    color: #333;
+    margin: 0;
+    padding: 0 20px;
+}
+
+header {
+    background: #6e44ff;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+section {
+    background: #e6dfff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    color: #6e44ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: #f0f0f0;
+}
